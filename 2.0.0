@@ -1,0 +1,6 @@
+Collecting django-reversion
+  Downloading https://files.pythonhosted.org/packages/c3/0b/4e1ab11382131c2304ce93130cde0bc9ca88ea966e0d988a33de339db8cb/django_reversion-3.0.4-py2.py3-none-any.whl (81kB)
+Requirement already satisfied: django>=1.11 in f:\python\lib\site-packages (from django-reversion) (2.0.5)
+Requirement already satisfied: pytz in f:\python\lib\site-packages (from django>=1.11->django-reversion) (2019.1)
+Installing collected packages: django-reversion
+Successfully installed django-reversion-3.0.4
